@@ -81,5 +81,5 @@ module.exports = {
     fetch: conflux,
   },
   fetch,
-  name: "Flux Project",
+  name: "Flux Protocol (FLUX)",
 };
